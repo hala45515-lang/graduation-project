@@ -137,7 +137,7 @@ const Footer = () => {
 
       {/* BOTTOM */}
       <div className="mt-10 border-t border-blue-200 dark:border-zinc-700 pt-4 text-center text-sm text-gray-500 dark:text-gray-400">
-        ©️ 2026 Luma Store. All rights reserved.
+        ©️ 2026 Luma Store. All rights reserved. made with love 
       </div>
     </footer>
   );
